@@ -40,7 +40,7 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          output-dir: _site
+          path: _site
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # this secret is always available for github actions
      
