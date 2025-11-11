@@ -22,8 +22,8 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          # To install LaTeX to build PDF book 
+        # To install LaTeX to build PDF book 
+        #with:
           # tinytex: true 
      
       # add software dependencies here and any libraries
