@@ -1,0 +1,22 @@
+# Quarto generated files
+_site/
+.quarto/
+*-files/
+*.html
+*.pdf
+*.docx
+*.epub
+*.ipynb
+*.log
+*.bak
+
+# R specific files (if using R)
+.Rproj.user/
+.Rhistory
+.Rdata
+.Ruserdata
+
+# Python specific files (if using Python)
+__pycache__/
+*.pyc
+.venv/
