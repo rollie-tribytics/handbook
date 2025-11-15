@@ -18,6 +18,8 @@ website:
         icon: "{{< fa brands github >}}"
         text: "Home"
       - about.qmd
+      - text: "Presentations"
+        href: presentations/demo-presentation.qmd
   sidebar:
     style: "docked"
     contents:
