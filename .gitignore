@@ -20,3 +20,4 @@ _site/
 __pycache__/
 *.pyc
 .venv/
+/.quarto/

@@ -1,13 +1,16 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+ 
 website:
   title: "handbook"
   search: true
   page-navigation: true
   back-to-top-navigation: true
-  output-dir: _site 
-  repo-url: https://github.com/quarto-dev/quarto-demo
+  #output-dir: _site 
+  repo-url: https://github.com/rollie-tribytics/handbook
   repo-actions: [edit, source, issue]
   navbar:
     left:
