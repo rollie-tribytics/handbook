@@ -39,5 +39,15 @@
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "index.html#it-worked",
+    "href": "index.html#it-worked",
+    "title": "handbook",
+    "section": "It worked!",
+    "text": "It worked!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
   }
 ]
