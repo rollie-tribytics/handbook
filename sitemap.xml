@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rollie-tribytics.github.io/handbook/about.html</loc>
-    <lastmod>2025-11-15T16:32:41.318Z</lastmod>
+    <lastmod>2025-11-15T16:56:50.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rollie-tribytics.github.io/handbook/presentations/demo_presentation.html</loc>
+    <lastmod>2025-11-15T16:56:50.361Z</lastmod>
   </url>
   <url>
     <loc>https://rollie-tribytics.github.io/handbook/index.html</loc>
-    <lastmod>2025-11-15T16:32:41.318Z</lastmod>
+    <lastmod>2025-11-15T16:56:50.361Z</lastmod>
   </url>
 </urlset>
