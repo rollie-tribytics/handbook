@@ -15,4 +15,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ## It worked on the app too
 
+How was the coffee?
+
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
