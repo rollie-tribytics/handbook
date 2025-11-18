@@ -1,35 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "decisions/adr-template.html",
+    "href": "decisions/adr-template.html",
+    "title": "handbook",
     "section": "",
-    "text": "About this site\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
+    "text": "Back to top"
   },
   {
-    "objectID": "presentations/demo_presentation.html#hello",
-    "href": "presentations/demo_presentation.html#hello",
-    "title": "Untitled",
-    "section": "Hello",
-    "text": "Hello"
-  },
-  {
-    "objectID": "presentations/demo_presentation.html#world",
-    "href": "presentations/demo_presentation.html#world",
-    "title": "Untitled",
-    "section": "World",
-    "text": "World"
-  },
-  {
-    "objectID": "presentations/demo_presentation.html#goodbye",
-    "href": "presentations/demo_presentation.html#goodbye",
-    "title": "Untitled",
-    "section": "Goodbye",
-    "text": "Goodbye"
+    "objectID": "decisions/adr-template-minimal.html",
+    "href": "decisions/adr-template-minimal.html",
+    "title": "handbook",
+    "section": "",
+    "text": "Back to top"
   },
   {
     "objectID": "index.html",
@@ -70,5 +52,65 @@
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "presentations/demo_presentation.html#hello",
+    "href": "presentations/demo_presentation.html#hello",
+    "title": "Untitled",
+    "section": "Hello",
+    "text": "Hello"
+  },
+  {
+    "objectID": "presentations/demo_presentation.html#world",
+    "href": "presentations/demo_presentation.html#world",
+    "title": "Untitled",
+    "section": "World",
+    "text": "World"
+  },
+  {
+    "objectID": "presentations/demo_presentation.html#goodbye",
+    "href": "presentations/demo_presentation.html#goodbye",
+    "title": "Untitled",
+    "section": "Goodbye",
+    "text": "Goodbye"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "decisions/001-demo_database.html",
+    "href": "decisions/001-demo_database.html",
+    "title": "{Demo database for testing & training}",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
+  },
+  {
+    "objectID": "decisions/001-demo_database.html#context-and-problem-statement",
+    "href": "decisions/001-demo_database.html#context-and-problem-statement",
+    "title": "{Demo database for testing & training}",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
+  },
+  {
+    "objectID": "decisions/001-demo_database.html#considered-options",
+    "href": "decisions/001-demo_database.html#considered-options",
+    "title": "{Demo database for testing & training}",
+    "section": "",
+    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
+  },
+  {
+    "objectID": "decisions/001-demo_database.html#decision-outcome",
+    "href": "decisions/001-demo_database.html#decision-outcome",
+    "title": "{Demo database for testing & training}",
+    "section": "",
+    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
   }
 ]
