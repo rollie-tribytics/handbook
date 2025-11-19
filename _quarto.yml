@@ -19,7 +19,14 @@ website:
         text: "Home"
       - about.qmd
       - text: "Presentations"
-        href: presentations/demo_presentation.qmd
+        menu:
+           text: Demo
+           href: presentations/demo_presentation.qmd
+      - text: Decisions
+        menu:
+          text: ADR template
+          href: adr-template.md
+
   sidebar:
     style: "docked"
     contents:
