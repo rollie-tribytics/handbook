@@ -10,8 +10,10 @@ logo:
   medium: logo.png
 
 typography:
-  fonts:
-    - family: Jura
-      source: google
-  base: Jura
-  headings: Jura
+  base: 
+    family: "Source Sans Pro"
+  headings:
+    family: Bitter # Using the Bitter font for headings
+    color: "#002D72"
+  monospace:
+    family: Roboto Mono
