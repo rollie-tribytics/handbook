@@ -11,7 +11,7 @@ logo:
 
 typography:
   base: 
-    family: "Source Sans Pro"
+    family: "Public Sans"
   headings:
     family: Bitter # Using the Bitter font for headings
     color: "#002D72"
