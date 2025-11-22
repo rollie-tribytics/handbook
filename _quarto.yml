@@ -24,7 +24,11 @@ website:
             href: presentations/demo_presentation.qmd
       - text: Decisions
         menu:
+          - text: ADR Listing
+            href: decisions/0*.qmd
           - text: ADR template
+            href: decisions/*template*.qmd
+          - text: README 
             href: decisions/README.qmd
   sidebar:
     style: "docked"
