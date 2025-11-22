@@ -1,0 +1,13 @@
+---
+title: "Architecture Decision Records"
+listing: default
+---
+
+
+
+For new Architectural Decision Records (ADRs), please use one of the following templates as a starting point:
+
+* [adr-template.md](adr-template.qmd) has all sections, with explanations about them.
+* [adr-template-minimal.md](adr-template-minimal.qmd) only contains mandatory sections, with explanations about them. <!-- ### Consequences also contained, though marked as "optional" -->
+
+The MADR documentation is available at <https://adr.github.io/madr/> while general information about ADRs is available at <https://adr.github.io/>.

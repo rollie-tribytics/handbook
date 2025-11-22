@@ -23,7 +23,7 @@ website:
           - text: Demo
             href: presentations/demo_presentation.qmd
       - text: Decisions
-        href: decisions/README.qmd
+        href: decisions/ADR_list.qmd
   sidebar:
     style: "docked"
     contents:
