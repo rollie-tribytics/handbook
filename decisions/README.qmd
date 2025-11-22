@@ -1,3 +1,9 @@
+---
+title: "Listing Example"
+listing: default
+---
+
+
 # Decisions
 
 For new Architectural Decision Records (ADRs), please use one of the following templates as a starting point:
