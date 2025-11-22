@@ -20,8 +20,8 @@ website:
       - about.qmd
       - text: "Presentations"
         menu:
-           text: Demo
-           href: presentations/demo_presentation.qmd
+          - text: Demo
+            href: presentations/demo_presentation.qmd
       - text: Decisions
         menu:
           - text: ADR template
