@@ -15,3 +15,5 @@ typography:
   headings:
     family: Bitter # Using the Bitter font for headings
     color: "#002D72"
+  monospace:
+    family: Roboto Mono
