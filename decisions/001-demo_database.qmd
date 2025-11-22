@@ -1,3 +1,8 @@
+---
+title: "Demo Database"
+---
+
+
 # {Demo database for testing & training}
 
 ## Context and Problem Statement
