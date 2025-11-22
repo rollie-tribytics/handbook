@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/decisions/ADR_list.html",
+    "items": [
+      "/decisions/001-demo_database.html",
+      "/decisions/adr-template.html",
+      "/decisions/adr-template-minimal.html"
+    ]
+  }
+]

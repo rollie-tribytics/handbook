@@ -1,5 +1,140 @@
 [
   {
+    "objectID": "decisions/ADR_list.html",
+    "href": "decisions/ADR_list.html",
+    "title": "Architecture Decision Records",
+    "section": "",
+    "text": "For new Architectural Decision Records (ADRs), please use one of the following templates as a starting point:\n\nadr-template.md has all sections, with explanations about them.\nadr-template-minimal.md only contains mandatory sections, with explanations about them. \n\nThe MADR documentation is available at https://adr.github.io/madr/ while general information about ADRs is available at https://adr.github.io/.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDemo Database\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFull ADR Template\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMinimal ADR Template\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html",
+    "href": "decisions/adr-template-minimal.html",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html#context-and-problem-statement",
+    "href": "decisions/adr-template-minimal.html#context-and-problem-statement",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html#considered-options",
+    "href": "decisions/adr-template-minimal.html#considered-options",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html#decision-outcome",
+    "href": "decisions/adr-template-minimal.html#decision-outcome",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "presentations/demo_presentation.html#hello",
+    "href": "presentations/demo_presentation.html#hello",
+    "title": "Untitled",
+    "section": "Hello",
+    "text": "Hello"
+  },
+  {
+    "objectID": "presentations/demo_presentation.html#world",
+    "href": "presentations/demo_presentation.html#world",
+    "title": "Untitled",
+    "section": "World",
+    "text": "World"
+  },
+  {
+    "objectID": "presentations/demo_presentation.html#goodbye",
+    "href": "presentations/demo_presentation.html#goodbye",
+    "title": "Untitled",
+    "section": "Goodbye",
+    "text": "Goodbye"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "handbook",
+    "section": "",
+    "text": "This is a Quarto website.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "handbook",
+    "section": "hello",
+    "text": "hello\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#world",
+    "href": "index.html#world",
+    "title": "handbook",
+    "section": "world",
+    "text": "world\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#it-worked-on-the-app-too",
+    "href": "index.html#it-worked-on-the-app-too",
+    "title": "handbook",
+    "section": "It worked on the app too",
+    "text": "It worked on the app too\nHow was the coffee?\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "decisions/001-demo_database.html",
+    "href": "decisions/001-demo_database.html",
+    "title": "Demo Database",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
+  },
+  {
+    "objectID": "decisions/001-demo_database.html#context-and-problem-statement",
+    "href": "decisions/001-demo_database.html#context-and-problem-statement",
+    "title": "Demo Database",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
+  },
+  {
+    "objectID": "decisions/001-demo_database.html#considered-options",
+    "href": "decisions/001-demo_database.html#considered-options",
+    "title": "Demo Database",
+    "section": "",
+    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
+  },
+  {
+    "objectID": "decisions/001-demo_database.html#decision-outcome",
+    "href": "decisions/001-demo_database.html#decision-outcome",
+    "title": "Demo Database",
+    "section": "",
+    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
+  },
+  {
     "objectID": "decisions/adr-template.html",
     "href": "decisions/adr-template.html",
     "title": "Full ADR Template",
@@ -47,133 +182,5 @@
     "title": "Full ADR Template",
     "section": "",
     "text": "{You might want to provide additional evidence/confidence for the decision outcome here and/or document the team agreement on the decision and/or define when/how this decision the decision should be realized and if/when it should be re-visited. Links to other decisions and resources might appear here as well.}"
-  },
-  {
-    "objectID": "decisions/001-demo_database.html",
-    "href": "decisions/001-demo_database.html",
-    "title": "Demo Database",
-    "section": "",
-    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
-  },
-  {
-    "objectID": "decisions/001-demo_database.html#context-and-problem-statement",
-    "href": "decisions/001-demo_database.html#context-and-problem-statement",
-    "title": "Demo Database",
-    "section": "",
-    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
-  },
-  {
-    "objectID": "decisions/001-demo_database.html#considered-options",
-    "href": "decisions/001-demo_database.html#considered-options",
-    "title": "Demo Database",
-    "section": "",
-    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
-  },
-  {
-    "objectID": "decisions/001-demo_database.html#decision-outcome",
-    "href": "decisions/001-demo_database.html#decision-outcome",
-    "title": "Demo Database",
-    "section": "",
-    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "handbook",
-    "section": "",
-    "text": "This is a Quarto website.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "handbook",
-    "section": "hello",
-    "text": "hello\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#world",
-    "href": "index.html#world",
-    "title": "handbook",
-    "section": "world",
-    "text": "world\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#it-worked-on-the-app-too",
-    "href": "index.html#it-worked-on-the-app-too",
-    "title": "handbook",
-    "section": "It worked on the app too",
-    "text": "It worked on the app too\nHow was the coffee?\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "presentations/demo_presentation.html#hello",
-    "href": "presentations/demo_presentation.html#hello",
-    "title": "Untitled",
-    "section": "Hello",
-    "text": "Hello"
-  },
-  {
-    "objectID": "presentations/demo_presentation.html#world",
-    "href": "presentations/demo_presentation.html#world",
-    "title": "Untitled",
-    "section": "World",
-    "text": "World"
-  },
-  {
-    "objectID": "presentations/demo_presentation.html#goodbye",
-    "href": "presentations/demo_presentation.html#goodbye",
-    "title": "Untitled",
-    "section": "Goodbye",
-    "text": "Goodbye"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
-  },
-  {
-    "objectID": "decisions/adr-template-minimal.html",
-    "href": "decisions/adr-template-minimal.html",
-    "title": "Minimal ADR Template",
-    "section": "",
-    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
-  },
-  {
-    "objectID": "decisions/adr-template-minimal.html#context-and-problem-statement",
-    "href": "decisions/adr-template-minimal.html#context-and-problem-statement",
-    "title": "Minimal ADR Template",
-    "section": "",
-    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
-  },
-  {
-    "objectID": "decisions/adr-template-minimal.html#considered-options",
-    "href": "decisions/adr-template-minimal.html#considered-options",
-    "title": "Minimal ADR Template",
-    "section": "",
-    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
-  },
-  {
-    "objectID": "decisions/adr-template-minimal.html#decision-outcome",
-    "href": "decisions/adr-template-minimal.html#decision-outcome",
-    "title": "Minimal ADR Template",
-    "section": "",
-    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
   }
 ]
