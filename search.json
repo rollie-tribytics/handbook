@@ -2,9 +2,51 @@
   {
     "objectID": "decisions/adr-template.html",
     "href": "decisions/adr-template.html",
-    "title": "handbook",
+    "title": "Full ADR Template",
     "section": "",
-    "text": "Back to top"
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n\n{decision driver 1, e.g., a force, facing concern, …}\n{decision driver 2, e.g., a force, facing concern, …}\n… \n\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n… \n\n\n\n\n\n{Describe how the implementation / compliance of the ADR can/will be confirmed. Is there any automated or manual fitness function? If so, list it and explain how it is applied. Is the chosen design and its implementation in line with the decision? E.g., a design/code review or a test with a library such as ArchUnit can help validate this. Note that although we classify this element as optional, it is included in many ADRs.}\n\n\n\n\n\n\n\n\n{example | description | pointer to more information | …}\n\nGood, because {argument a}\nGood, because {argument b} \nNeutral, because {argument c}\nBad, because {argument d}\n… \n\n\n\n\n{example | description | pointer to more information | …}\n\nGood, because {argument a}\nGood, because {argument b}\nNeutral, because {argument c}\nBad, because {argument d}\n…\n\n\n\n\n\n\n{You might want to provide additional evidence/confidence for the decision outcome here and/or document the team agreement on the decision and/or define when/how this decision the decision should be realized and if/when it should be re-visited. Links to other decisions and resources might appear here as well.}"
+  },
+  {
+    "objectID": "decisions/adr-template.html#context-and-problem-statement",
+    "href": "decisions/adr-template.html#context-and-problem-statement",
+    "title": "Full ADR Template",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
+  },
+  {
+    "objectID": "decisions/adr-template.html#decision-drivers",
+    "href": "decisions/adr-template.html#decision-drivers",
+    "title": "Full ADR Template",
+    "section": "",
+    "text": "{decision driver 1, e.g., a force, facing concern, …}\n{decision driver 2, e.g., a force, facing concern, …}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template.html#considered-options",
+    "href": "decisions/adr-template.html#considered-options",
+    "title": "Full ADR Template",
+    "section": "",
+    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template.html#decision-outcome",
+    "href": "decisions/adr-template.html#decision-outcome",
+    "title": "Full ADR Template",
+    "section": "",
+    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n… \n\n\n\n\n\n{Describe how the implementation / compliance of the ADR can/will be confirmed. Is there any automated or manual fitness function? If so, list it and explain how it is applied. Is the chosen design and its implementation in line with the decision? E.g., a design/code review or a test with a library such as ArchUnit can help validate this. Note that although we classify this element as optional, it is included in many ADRs.}"
+  },
+  {
+    "objectID": "decisions/adr-template.html#pros-and-cons-of-the-options",
+    "href": "decisions/adr-template.html#pros-and-cons-of-the-options",
+    "title": "Full ADR Template",
+    "section": "",
+    "text": "{example | description | pointer to more information | …}\n\nGood, because {argument a}\nGood, because {argument b} \nNeutral, because {argument c}\nBad, because {argument d}\n… \n\n\n\n\n{example | description | pointer to more information | …}\n\nGood, because {argument a}\nGood, because {argument b}\nNeutral, because {argument c}\nBad, because {argument d}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template.html#more-information",
+    "href": "decisions/adr-template.html#more-information",
+    "title": "Full ADR Template",
+    "section": "",
+    "text": "{You might want to provide additional evidence/confidence for the decision outcome here and/or document the team agreement on the decision and/or define when/how this decision the decision should be realized and if/when it should be re-visited. Links to other decisions and resources might appear here as well.}"
   },
   {
     "objectID": "decisions/001-demo_database.html",
@@ -109,8 +151,29 @@
   {
     "objectID": "decisions/adr-template-minimal.html",
     "href": "decisions/adr-template-minimal.html",
-    "title": "handbook",
+    "title": "Minimal ADR Template",
     "section": "",
-    "text": "Back to top"
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}\n\n\n\n\n{title of option 1}\n{title of option 2}\n{title of option 3}\n… \n\n\n\n\nChosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html#context-and-problem-statement",
+    "href": "decisions/adr-template-minimal.html#context-and-problem-statement",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html#considered-options",
+    "href": "decisions/adr-template-minimal.html#considered-options",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "{title of option 1}\n{title of option 2}\n{title of option 3}\n…"
+  },
+  {
+    "objectID": "decisions/adr-template-minimal.html#decision-outcome",
+    "href": "decisions/adr-template-minimal.html#decision-outcome",
+    "title": "Minimal ADR Template",
+    "section": "",
+    "text": "Chosen option: “{title of option 1}”, because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.\n\n\n\n\nGood, because {positive consequence, e.g., improvement of one or more desired qualities, …}\nBad, because {negative consequence, e.g., compromising one or more desired qualities, …}\n…"
   }
 ]
