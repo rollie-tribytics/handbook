@@ -3,7 +3,9 @@ project:
 
 execute:
   freeze: auto
- 
+
+brand: brand/_brand.yml
+
 website:
   title: "handbook"
   search: true
