@@ -10,7 +10,8 @@ logo:
   medium: logo.png
 
 typography:
-  base: "Source Sans Pro"
+  base: 
+    family: "Source Sans Pro"
   headings:
     family: Bitter # Using the Bitter font for headings
     color: "#002D72"
